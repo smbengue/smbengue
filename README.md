@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Souleymane MBENGUE
+- 👀 I’m interested in Software development mainly with .NET/C# and IoT
+- 🌱 I’m currently learning Coap/LwM2M/OSCORE and Blazor
